@@ -24,3 +24,12 @@ This project integrates a Python-based backend with a SQL database and an HTML/C
 1. Clone this repository:
    ```bash
    git clone <repository_url>
+
+2. cd DBMS-main
+3. pip install -r requirements.txt
+
+### Usage
+1. `Set up the Database` Execute the SQL script (Script.sql) to set up the database schema.
+2. `Run the Backend`: Start the Python backend by running App.py
+3. `Access the Frontend:` Open the HTML files in a browser to interact with the application (e.g., index.html).
+
